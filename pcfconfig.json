@@ -1,0 +1,13 @@
+{
+    "outDir": "./out/controls",
+    "debugger": {
+        "webResourceHost": "https://localhost:8181",
+        "testRegion": "dev",
+        "testOrg": "org00000000",
+        "testPageType": "custom"
+    },
+    "devServer": {
+        "port": 8181,
+        "useHttps": true
+    }
+}
